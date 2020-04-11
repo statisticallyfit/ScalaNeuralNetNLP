@@ -1,7 +1,8 @@
+package NumscaTryout
+
+
 import botkop.{numsca => ns}
 import ns.Tensor
-import scorch._
-
 /**
  *
  */
