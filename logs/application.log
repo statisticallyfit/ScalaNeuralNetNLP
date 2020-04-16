@@ -160,3 +160,135 @@
 2020-04-11 14:53:18,612 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
 2020-04-11 14:53:18,612 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
 2020-04-11 14:53:18,613 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 10:44:56,289 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 10:44:57,297 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 10:44:57,736 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 10:44:57,740 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 10:44:57,740 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 10:44:57,740 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:28:42,365 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:28:43,101 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:28:43,592 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:28:43,602 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:28:43,605 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:28:43,606 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:29:24,245 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:29:24,895 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:29:25,286 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:29:25,292 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:29:25,292 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:29:25,293 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:31:54,528 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:31:55,338 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:31:55,972 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:31:56,007 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:31:56,009 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:31:56,009 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:32:45,116 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:32:46,859 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:32:47,405 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:32:47,408 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:32:47,408 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:32:47,408 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:36:31,523 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:36:32,329 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:36:32,893 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:36:32,900 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:36:32,900 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:36:32,901 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:42:21,209 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:42:22,422 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:42:23,144 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:42:23,152 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:42:23,152 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:42:23,152 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:50:37,882 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:50:38,679 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:50:39,160 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:50:39,166 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:50:39,167 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:50:39,168 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:51:31,594 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:51:32,549 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:51:33,177 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:51:33,180 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:51:33,181 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:51:33,182 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 11:57:17,774 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 11:57:19,118 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 11:57:19,836 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 11:57:19,839 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 11:57:19,841 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 11:57:19,842 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 12:09:57,125 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 12:09:57,662 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 12:09:58,031 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 12:09:58,038 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 12:09:58,038 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 12:09:58,039 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:31:42,468 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:31:43,124 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:31:43,677 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:31:43,680 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:31:43,680 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:31:43,680 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:40:37,112 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:40:37,645 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:40:37,978 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:40:37,983 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:40:37,984 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:40:37,984 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:44:17,563 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:44:18,139 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:44:18,527 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:44:18,536 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:44:18,537 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:44:18,537 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:44:43,512 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:44:44,086 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:44:44,529 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:44:44,538 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:44:44,539 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:44:44,539 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:44:52,145 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:44:52,708 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:44:53,046 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:44:53,051 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:44:53,051 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:44:53,052 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:45:38,662 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:45:39,362 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:45:39,751 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:45:39,757 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:45:39,758 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:45:39,758 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:46:06,015 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:46:06,587 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:46:06,970 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:46:06,977 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:46:06,978 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:46:06,978 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:46:20,622 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:46:37,597 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:46:42,545 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:46:42,560 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:46:42,561 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:46:42,562 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:47:38,300 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:47:39,110 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:47:39,569 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:47:39,575 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:47:39,575 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:47:39,575 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 14:56:26,389 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 14:56:27,214 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 14:56:27,668 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 14:56:27,688 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 14:56:27,688 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 14:56:27,688 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
+2020-04-16 15:04:42,516 [INFO] from org.nd4j.linalg.factory.Nd4jBackend in main - Loaded [CpuBackend] backend
+2020-04-16 15:04:43,318 [INFO] from org.nd4j.nativeblas.NativeOpsHolder in main - Number of threads used for NativeOps: 4
+2020-04-16 15:04:43,812 [INFO] from org.nd4j.nativeblas.Nd4jBlas in main - Number of threads used for BLAS: 4
+2020-04-16 15:04:43,831 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Backend used: [CPU]; OS: [Linux]
+2020-04-16 15:04:43,833 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Cores: [4]; Memory: [3.9GB];
+2020-04-16 15:04:43,833 [INFO] from org.nd4j.linalg.api.ops.executioner.DefaultOpExecutioner in main - Blas vendor: [OPENBLAS]
